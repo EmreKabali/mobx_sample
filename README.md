@@ -9,6 +9,7 @@ Before use, should provide dependencies
 dev_dependencies:
   build_runner: any
   mobx_codegen: any
+  provider: ^6.0.2
   
 dependencies:
   mobx: ^2.0.6+1
